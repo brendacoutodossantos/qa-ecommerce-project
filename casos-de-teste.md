@@ -22,11 +22,12 @@ Os testes serão executados de forma prática e os resultados serão registrados
 4. Clicar em "Login".
 
 **Resultado esperado:**  
-O sistema deve autenticar o usuário e permitir o acesso à aplicação.
+O sistema deve autenticar o usuário e permitir o acesso 
 
-**Resultado obtido:** A executar.
+**Resultado obtido:** O sistema autenticou o usuário com sucesso e direcionou para a página de produtos.
 
-**Status:** Pendente
+**Status:** PASSOU
+
 
 ---
 
